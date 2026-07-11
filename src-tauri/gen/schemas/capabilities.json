@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"本地离线兜底页的最小权限（远程页面不走 IPC）","local":true,"windows":["main"],"permissions":["core:default"]}}
