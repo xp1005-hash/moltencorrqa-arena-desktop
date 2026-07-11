@@ -1,0 +1,12 @@
+{
+  "name": "moltencorrqa-arena-desktop",
+  "private": true,
+  "version": "0.1.0",
+  "description": "MoltenCorrQA 专家盲评桌面客户端（Tauri v2 薄壳，加载远程 Arena）",
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2"
+  }
+}
